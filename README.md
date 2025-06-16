@@ -43,7 +43,6 @@ Estudiante de **Tecnólogo en Informática** en **UTEC**, apasionado por el desa
 
 ---
 
-
 ## 📫 Contacto
 
 <p align="center">
