@@ -49,7 +49,7 @@ Estoy en busca de mi primer **Puesto Laboral**, para poder poner en practica las
 
 <p align="center">
   &nbsp;
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/santiago-rolando-/" target="_blank">
+  <a href="/www.linkedin.com/in/santiago-rolando-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
