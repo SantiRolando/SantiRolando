@@ -20,11 +20,6 @@
 
 ---
 
-
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
-
-<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
-
 <p align="center">
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
 </p>
@@ -58,6 +53,10 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
+  </a>
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+      alt="C++"/>
   </a>
 </p>
 
@@ -272,8 +271,8 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-stats.vercel.app/api?username=SantiRolando&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SantiRolando)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=SantiRolando&theme=material-palenight)](https://github.com/SantiRolando)
 </div>
 
 ----
@@ -283,7 +282,4 @@
     alt="example" />
 </p>
 
-------
-Credit: [Elanza-48](https://github.com/Elanza-48)
 
-Last Edited on: 09/09/2021
