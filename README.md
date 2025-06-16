@@ -6,17 +6,16 @@
 <h3 font-size="20" align="center">Estudiante de Tecnologo en Informatica en la UTEC.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 Estoy actualmente cursando la carrera **Tecnologo en informatica** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👯 I’m looking to collaborate on **Spring Framework**
+- 👯 Estoy en busca de **Aprender Nuevas Tecnologias**
 
-- 🤝 I’m looking for help with **Backend Design**
+- 🤝 Estoy en busca de **mi primer puesto laboral**
 
-- 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
+- 👨‍💻 Puedes ver mis proyectos aca: [SantiRolando](https://github.com/SantiRolando)
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
+
 
 
 ---
