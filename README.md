@@ -48,11 +48,8 @@ Estoy en busca de mi primer **Puesto Laboral**, para poder poner en practica las
 ## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:<tu-email>">
-    <img src="https://img.shields.io/badge/Email-Atento-blue?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/<tu-linkedin>" target="_blank">
+  <a href="https://www.linkedin.com/in/<https://www.linkedin.com/in/santiago-rolando-/>" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
