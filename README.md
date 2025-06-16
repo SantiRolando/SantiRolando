@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Santiago Rolando
 
-Estudiante de **Tecnólogo en Informática** en **UTEC**.  
-Apasionado por el desarrollo de software, siempre aprendiendo nuevas tecnologías para potenciar mis proyectos.
+Estudiante de **Tecnólogo en Informática** en **UTEC**, apasionado por el desarrollo de software, siempre aprendiendo nuevas tecnologías para potenciar mis proyectos.
 
 ---
 
-<!-- badges: start -->
+## 🛠️ Habilidades
+
+### 🔤 LENGUAJES:
 <p align="center">
-  <!-- Lenguajes -->
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/-JavaScript-3178C6?style=flat&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -17,8 +17,11 @@ Apasionado por el desarrollo de software, siempre aprendiendo nuevas tecnología
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+### ⚙️ OTRAS TECNOLOGÍAS:
+<p align="center">
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular"/>
-  <!-- Herramientas -->
   <img src="https://img.shields.io/badge/-NetBeans-026E00?style=flat&logo=netbeans&logoColor=white" alt="NetBeans"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
@@ -29,38 +32,24 @@ Apasionado por el desarrollo de software, siempre aprendiendo nuevas tecnología
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-<!-- badges: end -->
 
 ---
 
-## 🧠 Sobre mí
+## 👨‍💻 Sobre mí
 
-- 🏫 Estudio **Tecnólogo en Informática** en **UTEC**
-- 🚀 Me encantan los desafíos en el desarrollo web, tanto frontend como backend
-- 💼 Actualmente práctico con Angular y PHP/MySQL para mis proyectos universitarios
-
----
-
-## 🔩 Proyectos destacados
-
-- **Sistema de gestión académica**: backend con PHP/MySQL, interfaz con Angular  
-- **API REST** con endpoints para login, gestión de usuarios y datos académicos  
-- **Dashboard interactivo**: gráficos, tablas dinámicas y filtros con Angular
-
-*(Podés agregar enlaces directos a repos de tus proyectos, y breves descripciones).*
+- Estudio **Tecnólogo en Informática** en **UTEC**
+- Apasionado por desafíos en desarrollo web, tanto en frontend como backend
+- Enfocado en el uso de **Angular** junto a **PHP/MySQL** en proyectos universitarios
 
 ---
 
-## 📬 ¿Querés contactarme?
+
+## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:<tu-email>">
-    <img src="https://img.shields.io/badge/Email-Atento-blue?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  [![Email](https://img.shields.io/badge/--Email-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:<tu-email>)
   &nbsp;
-  <a href="https://www.linkedin.com/in/<tu-linkedin>" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<tu-linkedin>)
 </p>
 
 ---
