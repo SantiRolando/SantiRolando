@@ -46,9 +46,13 @@ Estudiante de **Tecnólogo en Informática** en **UTEC**, apasionado por el desa
 ## 📫 Contacto
 
 <p align="center">
-  [![Email](https://img.shields.io/badge/--Email-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:<tu-email>)
+  <a href="mailto:<tu-email>">
+    <img src="https://img.shields.io/badge/Email-Atento-blue?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   &nbsp;
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<tu-linkedin>)
+  <a href="https://www.linkedin.com/in/<tu-linkedin>" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
