@@ -2,6 +2,8 @@
 
 Estudiante de **Tecnólogo en Informática** en **UTEC**, apasionado por el desarrollo de software, siempre aprendiendo nuevas tecnologías para potenciar mis proyectos.
 
+Estoy en busca de mi primer **Puesto Laboral**, para poder poner en practica las herramientas aprendidas.
+
 ---
 
 ## 🛠️ Habilidades
